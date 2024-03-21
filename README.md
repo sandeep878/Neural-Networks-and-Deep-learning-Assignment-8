@@ -1,1 +1,3 @@
-# Neural-Networks-and-Deep-learning-Assignment-8
+Name  Puppala Sandeep Kumar
+700#  700748337
+mail  sxp83370@ucmo.edu
